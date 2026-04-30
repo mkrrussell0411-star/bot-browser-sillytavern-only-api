@@ -9,7 +9,7 @@ Browse bots, lorebooks, collections, trends, and your own local SillyTavern libr
 Install via the SillyTavern extension installer:
 
 ```
-https://github.com/mia13165/SillyTavern-BotBrowser
+https://github.com/mkrrussell0411-star/bot-browser-sillytavern-only-api
 ```
 
 ## How to Update
